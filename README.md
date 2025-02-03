@@ -44,4 +44,13 @@ This project is a **Python-based translation tool** that translates text between
 
 ---
 
+### **Video Demonstration:**
+Here’s a video that demonstrates how this Translator project works:
+
+https://github.com/user-attachments/assets/9a5616c9-3dd1-44d0-9ea1-82656aa0d481
+
+This video showcases the steps involved in using the Translator tool: inputting text, selecting the language for translation, generating the translated text, and exiting the tool. It provides a clear demonstration of the functionality in action.
+
+---
+
 This project highlights my **Python skills** in developing an automated translation system, focusing purely on coding.! 🚀
