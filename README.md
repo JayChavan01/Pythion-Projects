@@ -44,4 +44,4 @@ This project is a **Python-based translation tool** that translates text between
 
 ---
 
-This project highlights my **Python skills** in developing an automated translation system, focusing purely on coding without external tools like Excel or Power BI. Let me know if you'd like additional features or improvements! 🚀
+This project highlights my **Python skills** in developing an automated translation system, focusing purely on coding.! 🚀
