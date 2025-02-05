@@ -1,4 +1,4 @@
-# **Translate Using Python**  
+# **Translate Using Python**
 
 **Overview:**  
 This project is a **Python-based translation tool** that translates text between different languages. The project leverages **Python libraries** to efficiently process text and generate accurate translations. The focus is purely on **Python programming**, without using Excel or Power BI.  
